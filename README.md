@@ -1,6 +1,6 @@
-# ⚡️ React + shadcn/ui Starter Template
+# ⚡️ React-JS + shadcn/ui Starter Template
 
-A lightning-fast starter template with Vite, React, Tailwind CSS, and shadcn/ui pre-configured. Skip the setup, start building!
+A lightning-fast starter template with Vite, React-JS, Tailwind CSS, and shadcn/ui pre-configured. Skip the setup, start building!
 
 ## 🚀 Quick Start
 
@@ -31,7 +31,7 @@ npx shadcn@latest add card
 ## ✨ What's Included
 
 - 🏃‍♂️ Vite
-- ⚛️ React
+- ⚛️ React-JS
 - 🎨 Tailwind CSS
 - 🛠️ shadcn/ui
 - 🔥 HMR
